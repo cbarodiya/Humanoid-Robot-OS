@@ -61,7 +61,7 @@ Phase 8 – Human Interaction
 
 
 
-'''
+```
 Humanoid_OS/
 │
 ├── kernel/
@@ -88,5 +88,4 @@ Humanoid_OS/
 ├── models/
 ├── datasets/
 └── README.md
-
-'''
+```

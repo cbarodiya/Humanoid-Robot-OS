@@ -1,4 +1,4 @@
-'''
+```
 Humanoid Robot OS
 │
 ├── 1. Kernel Layer
@@ -106,4 +106,4 @@ Humanoid Robot OS
     ├── Industrial Assistant
     └── Custom Skills
 
-'''    
+```
